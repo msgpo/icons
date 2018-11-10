@@ -72,7 +72,7 @@
      id="layer1"
      transform="translate(-275.78949,-235.12535)">
     <path
-       style="fill:#929292;fill-opacity:1"
+       style="fill:#{color};fill-opacity:1"
        d="m 454.69861,339.57184 c -6.25553,-1.92701 -13.09437,-8.18485 -16.01977,-14.65882 -2.35197,-5.20494 -2.39417,-5.83918 -2.69772,-40.53767 l -0.30837,-35.25 h 14.05837 14.05837 v 32.5 c 0,17.875 0.3401,32.5 0.75577,32.5 0.41567,0 15.37558,-14.625 33.24423,-32.5 l 32.48846,-32.5 h 13.99236 13.99237 l 13.2634,13.23611 13.26341,13.2361 13.26341,-13.2361 13.2634,-13.23611 h 18.97844 18.97844 l -22.73923,22.75536 -22.73923,22.75537 22.74464,22.74463 22.74464,22.74464 H 630.30015 611.3163 l -13.2634,-13.23611 -13.26341,-13.2361 -13.26341,13.2361 -13.2634,13.23611 H 539.28859 520.3145 l 14.97499,-15 14.97499,-15 h 15.50917 15.50917 l -18.73119,-18.7312 -18.7312,-18.7312 -32.76547,32.63561 c -31.0285,30.90551 -33.05341,32.72019 -38.19697,34.23119 -6.54728,1.92338 -12.01113,1.93604 -18.15938,0.0421 z M 275.78949,294.62535 v -45.5 h 32.45078 c 19.92053,0 34.49697,0.42846 37.75,1.10962 19.34843,4.05141 34.30395,21.36642 35.53349,41.1395 1.36737,21.9896 -11.16553,40.4263 -31.85917,46.86688 -5.42768,1.68929 -9.55796,1.884 -39.96419,1.884 h -33.91091 z m 66.57074,18.60719 c 15.56234,-7.06826 15.74099,-28.78974 0.30006,-36.48428 -5.07043,-2.5267 -5.89818,-2.62291 -22.56714,-2.62291 h -17.30366 v 20.5 20.5 l 17.75,-0.022 c 15.10069,-0.0187 18.35759,-0.29792 21.82074,-1.87085 z m 50.42926,-18.60719 v -45.5 h 14 14 v 45.5 45.5 h -14 -14 z"
        id="path2944"
        sodipodi:nodetypes="cscccccscccccccccccccccccccccccccccccscccccsssccccscccccccccccccccc"
@@ -82,7 +82,7 @@
        transform="translate(32.236842,125)" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#929292;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#{color};fill-opacity:1;stroke:none"
        x="650"
        y="339.86218"
        id="text2946"><tspan
@@ -90,6 +90,6 @@
          id="tspan2948"
          x="650"
          y="339.86218"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#929292;fill-opacity:1">TM</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#{color};fill-opacity:1">TM</tspan></text>
   </g>
 </svg>

@@ -201,7 +201,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <rect
-     style="fill:#929292;fill-opacity:1;stroke:none"
+     style="fill:#{color};fill-opacity:1;stroke:none"
      id="rect3846-5"
      width="940.02313"
      height="940.07001"
